@@ -1,4 +1,4 @@
-### A full-stack developer, specialising in React, React Native, AWS Amplify 👋
+### A full-stack developer, specialising in React, React Native, Node, Express and AWS Amplify 👋
 
 - 🔭 When I look at previous code, I never feel it reflects where I am now, so I tend to keep repos private. I am currently working on an NFT marketplace project, developed using Typescript with AWS Amplify. It's a work in progress but here's a taister:
 
